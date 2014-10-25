@@ -8,6 +8,16 @@ If you are a student and don't understand something about the code, please fill 
 ## Courses
 
 ### Masters
+
+<table>
+  <thead>
+    <tr><th>ACRONYM</th><th>NAME</th><th>PROJECT</th><th>LABS</th><th>Reviewed(✘ ✔)</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>--</td><td>--</td> <td>--</td><td>--</td><td>--</td></tr>
+  </tbody>
+</table>
+
 - DDRS - 
 - EADW - Data Mining - https://github.com/diasdavid/METI-EADW
 - PADI - Platforms for Distributed Web Apps - https://github.com/diasdavid/METI-PADI
@@ -15,8 +25,25 @@ If you are a student and don't understand something about the code, please fill 
 - SIRS - 
 - CC   - Cloud Computing - https://github.com/diasdavid/MERC-CC
 - AIAC - Advanced Security Mechanisms - https://github.com/diasdavid/METI-AIAC
+- CMOV - 
+- Thesis - Project
+- Thesis - Dissertation
 
 ### Bachelors
+
+- SCOM
+- SO
+- BD
+- SD
+- ES-SD
+- PO
+- FP
+- IIPM
+- AR
+- AC
+- IRC
+
+- 
 
 there are more, but I can't seem to find the code for them
 
